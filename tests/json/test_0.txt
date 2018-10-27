@@ -1,0 +1,70 @@
+"Group#1"
+ "Series#1"
+  "A Active"
+   0
+   1
+   2
+   #
+   0
+   1
+   2
+  "B Active"
+   0
+   1
+   2
+   #
+   0
+   2
+   3
+ "Series#2"
+  "A Stall"
+   0
+   1.1
+   2
+   #
+   0
+   1
+   2
+  "B Stall"
+   0
+   1
+   2
+   #
+   0
+   2
+   3
+"Group#2"
+ "Series#1"
+  "A Active"
+   0
+   1
+   2
+   #
+   0
+   1
+   2
+  "B Active"
+   0
+   1
+   2
+   #
+   0
+   2
+   3
+ "Series#2"
+  "A Stall"
+   0
+   1
+   2
+   #
+   0
+   1
+   2
+  "B Stall"
+   0
+   1
+   2
+   #
+   0
+   2
+   3
